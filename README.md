@@ -30,7 +30,7 @@ Self-signed SSL Certificate Generator with GUI
 
   ## 🚀 How to Use
 
-### 🧩 Option 1: Run the Pre-built Executable (Recommended)
+### Run the Pre-built Executable (Recommended)
 
 No Python or dependencies required.
 
