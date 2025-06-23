@@ -34,10 +34,10 @@ Self-signed SSL Certificate Generator with GUI
 
 No Python or dependencies required.
 
-- **Windows**: Download `certgen.exe`
-- **Linux**: Download the Linux binary from [Releases](https://github.com/yourusername/certgen/releases)
+- **Windows**: Download 'Certificate_Generator_ForWindows.exe'
+- **Linux**: Download the Linux binary from releases
 
 > Just make the file executable on Linux:
 ```bash
-chmod +x certgen
-./certgen
+chmod +x Certificate_Generator_ForLinux
+./Certificate_Generator_ForLinux
