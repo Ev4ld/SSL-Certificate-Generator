@@ -27,3 +27,17 @@ Self-signed SSL Certificate Generator with GUI
 - **Python 3.8+**
 - **OpenSSL** installed and available in system `PATH`  
   _Required for `.p7b` (PKCS#7) certificate generation._
+
+  ## 🚀 How to Use
+
+### 🧩 Option 1: Run the Pre-built Executable (Recommended)
+
+No Python or dependencies required.
+
+- **Windows**: Download `certgen.exe`
+- **Linux**: Download the Linux binary from [Releases](https://github.com/yourusername/certgen/releases)
+
+> Just make the file executable on Linux:
+```bash
+chmod +x certgen
+./certgen
