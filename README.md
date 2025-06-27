@@ -24,7 +24,6 @@ Self-signed SSL Certificate Generator with GUI
 
 ## ⚙️ Requirements
 
-- **Python 3.8+**
 - **OpenSSL** installed and available in system `PATH`  
   _Required for `.p7b` (PKCS#7) certificate generation._
 
