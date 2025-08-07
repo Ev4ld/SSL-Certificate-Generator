@@ -2,7 +2,8 @@
 Self-signed SSL Certificate Generator with GUI
 # 🔐 Certificate Generator – Python GUI for SSL & CA Certificates
 
-**Certificate Generator** is a cross-platform Python GUI tool that helps you create SSL/TLS certificates and certificate authorities (CAs) with ease. It supports exporting to common formats like `.crt`, `.cer`, `.der`, `.pfx`, and `.p7b`, making it ideal for sysadmins, developers, and IT professionals.
+**Certificate Generator** is a cross-platform Python GUI tool that helps you create SSL/TLS certificates and certificate authorities (CAs) with ease. It supports exporting to common formats like `.crt`, `.cer`, `.der`, `.pfx`, and `.p7b`, making it ideal for sysadmins, developers, and IT professionals. Executable for linux is available in [Releases](https://github.com/Ev4ld/SSL-Certificate-Generator/releases)
+ 
 
 -![CA_tab](https://github.com/user-attachments/assets/5f13ddd3-98b3-45af-a078-1405bd39f2d5)
 ![signed_tab](https://github.com/user-attachments/assets/c7fbc020-078b-4335-a9ae-49ea8d90882c)
